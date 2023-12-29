@@ -11,7 +11,7 @@ export default {
   theme: {
     extend: {
       fontFamily:{
-        'kanit': ['regular']
+        kanit: ['Kanit']
       }
     },
   },
