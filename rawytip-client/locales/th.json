@@ -1,0 +1,11 @@
+{
+    "test":"test dwadwd",
+    "general": {
+        "back": "กลับ"
+    },
+    "page":{
+        "home-page":{
+            "title":"ยินดีต้อนรับสู่ รวยทิพย์"
+        }
+    }
+}
